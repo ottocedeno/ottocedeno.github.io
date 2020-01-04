@@ -1,11 +1,11 @@
 # Site settings
-author: Otto Cedeno
-title: 
+author: Otto
+title: Otto's Coding Blog
 header-img: img/home-bg.png
 email: otto@ottostacos.com
-copyright_name: Otto Cedeno
+copyright_name: Otto
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My quest to solve a sea of endless error messages
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ottocedeno
