@@ -12,7 +12,7 @@ Enter: Colorize
 
 Colorize is a Ruby Gem that extends methods to String objects that are output to the terminal.
 
-For my CLI Gem project, it was a game changer.  I built an app called SnowReport that show's users data about the best ski resorts in the world.
+For my CLI Gem project, it was a game changer.  I built an app called SnowReport that show's users data about the best ski resorts in the world. Colorize really helped in making it feel bright, organized and welcoming to the user.
 
 To install this Gem, to an existing Ruby Gem project, you can add it as a dependency in your gemfile (if you setup your project via Bundler).
 
@@ -24,7 +24,7 @@ Visit: https://github.com/fazibear/colorize to see the documentation on how to u
 
 Now that it's up and running, let me show you how I used it to add some POP to my project...
 
-Initially, I was struggling to find a meaningful way to make my information that the user was reading stand out in the monochrome world of terminal.  So I did some Googling, and found Colorize.  My initial application of it was to solve for 2 problems:
+Initially, I was struggling to find a meaningful way to make the information that the user was reading stand out in the monochrome world of terminal.  So I did some Googling, and found Colorize.  My initial application of it was to solve for 2 problems:
 
 1. I wanted my section headers to stand out so the user knew clearly where they were in the application.
 2. I wanted my data values to POP from it's data label.
