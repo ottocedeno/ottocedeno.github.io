@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Adding Colorize to your Gem will make it POP"
-date:       2020-01-24 05:01:51 +0000
+date:       2020-01-24 00:01:52 -0500
 permalink:  adding_colorize_to_your_gem_will_make_it_pop
 ---
 
