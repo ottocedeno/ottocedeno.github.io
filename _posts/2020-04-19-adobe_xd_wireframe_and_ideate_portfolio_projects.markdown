@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Adobe XD: Wireframe and ideate portfolio projects"
-date:       2020-04-20 01:02:14 +0000
+date:       2020-04-19 21:02:15 -0400
 permalink:  adobe_xd_wireframe_and_ideate_portfolio_projects
 ---
 
@@ -34,4 +34,4 @@ Here's a quick rundown of my process of mocking things up in Adobe XD (I'll link
 
 By the way, while I suggest doing wireframes in the beginning of your project, you should 100% still develop it from the ground up (database => models => controllor/views).  I don't recommend going from wireframes straight to coding your views.  You'll end up having to stub out / hard code in temporary values before your database is setup.  This just creates double work.
 
-If you want to see my final product, you can find it here:  https://github.com/ottocedeno/solocize (**DISCLAIMER**:  My CSS is ALL OVER THE PLACE.  I'm still getting the hand of writting susinct styling rules.  Will most likley iterate over it and use a framework like Tailwind or Bootstrap)
+If you want to see my final product, you can find it here:  [https://github.com/ottocedeno/solocize](https://github.com/ottocedeno/solocize) (**DISCLAIMER**:  My CSS is ALL OVER THE PLACE.  I'm still getting the hand of writting susinct styling rules.  Will most likley iterate over it and use a framework like Tailwind or Bootstrap)
