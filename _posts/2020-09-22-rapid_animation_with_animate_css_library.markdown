@@ -49,5 +49,5 @@ Recap of Why you should add in animations:
 * Its that extra attention to detail that will hopefully impress potential job interviewers
 
 For my JS-Rails project I used a lot of the Animate.css library to give the UI components some character.
-Check out my video walk through here to see it in action.
+[Check out my video walk through here to see it in action.](https://youtu.be/CDvMKIVG1y0)
 
