@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rapid animation with Animate.css Library"
-date:       2020-09-22 19:07:00 +0000
+date:       2020-09-22 15:07:01 -0400
 permalink:  rapid_animation_with_animate_css_library
 ---
 
