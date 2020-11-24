@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ditch Bootstrap for Tailwind"
-date:       2020-11-24 20:59:01 +0000
+date:       2020-11-24 15:59:02 -0500
 permalink:  ditch_bootstrap_for_tailwind
 ---
 
